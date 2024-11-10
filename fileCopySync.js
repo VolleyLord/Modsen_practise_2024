@@ -1,5 +1,7 @@
 const fs = require('fs');
 
+console.time('fileCopy');
+
 // Blocking reading and writing
 try {
     const data = fs.readFileSync('source.txt', 'utf-8');
@@ -8,3 +10,5 @@ try {
 } catch (error) {
     console.error("Ошибка:", error);
 }
+
+console.timeEnd('fileCopy');
