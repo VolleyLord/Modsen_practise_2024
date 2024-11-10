@@ -1,0 +1,111 @@
+Machine Learning Engineer/Data scientist
+
+
+1)Requirements:
+proven experience (2+ years) in machine learning, data science, or a related role;
+in-depth knowledge of different AI fields: computer vision, NLP, data mining;
+experience in designing Data Science architectures and contributing to pre-sales activities;
+strong programming skills in languages such as Python/R;
+experience with machine learning frameworks (TensorFlow, PyTorch) and AI/ML tools (pandas, NumPy, scikit-learn, scipy, statsmodels, matplotlib, etc.);
+excellent communication skills with the ability to explain complex concepts to diverse audiences;
+english B1+.
+
+Nice to have:
+expertise on Linux, Docker;
+experience with cloud services and machine learning deployment pipelines.
+
+
+2)Наши ожидания:
+Опыт работы на позиции дата-сайентиста или аналогичной роли от 2 лет.
+Высшее образование в области математики, статистики, информатики или смежных дисциплин.
+Опыт разработки и внедрения моделей прогнозирования для различных бизнес-задач.
+Глубокие знания в области машинного обучения, статистики и аналитики данных.
+Умение работать с большими объемами данных и знание методов их обработки.
+Опыт работы с инструментами и языками программирования: Python, SQL.
+Знание библиотек для машинного обучения:
+scikit-learn
+библиотеки градиентного бустинга
+Опыт работы с BI-инструментами (Tableau, PowerBI и/или аналоги).
+Понимание принципов A/B тестирования и экспериментального анализа.
+Отличные аналитические и коммуникационные навыки.
+
+Будет плюсом
+Опыт разработки и применения методов сегментации пользователей для улучшения пользовательского опыта и оптимизации маркетинговых стратегий;
+Опыт работы в betting/gambling;
+Опыт работы с облачными сервисами AWS (S3, DataBricks);
+Опыт участия в организации ETL/ELT процессов на уровне разработчика либо заказчика.
+
+
+3)Мы ожидаем:
+
+Законченное высшее техническое образование.
+Опыт работы на позиции Data Scientist (Machine Learning или Deep Learning Engineer) от 1-го года.
+Хорошие коммуникативные навыки.
+Уверенное знание и владение SQL.
+Практический опыт в решении задач машинного обучения (классификация, регрессия, кластеризация и т.д.).
+Уверенное знание и владение Python, знание принципов ООП.
+Уверенное владение библиотеками и фреймворками для машинного обучения (NumPy, Pandas, Scikit-Learn, Prophet, LightGBM, Keras, TensorFlow, PyTorch).
+Навыки составления технических и бизнес-отчётов.
+Будет плюсом:
+
+Наличие учёной степени или квалификации (диплом об окончании аспирантуры или магистратуры).
+Опыт работы с ML-платформами (MLflow, DVC, и т.д.).
+Навыки работы в Linux, а также опыт работы с docker.
+
+
+4)Стек технологий: Linux, git, python, numpy, opencv, pytorch.
+
+Для нас важно:
+
+Опыт коммерческой разработки по машинному обучению;
+Опыт обучения и тестирования моделей классификации, детектирования, сегментации;
+Базовая математическая подготовка (матанализ, линейная алгебра, статистика и теория вероятностей);
+Практические навыки в компьютерном зрении;
+Опыт разработки на Python;
+Опыт взаимодействия с трекерами (deepsort, bytetrack);
+Навыки DevOps (платформы CI/CD), базовые знания Linux, docker.
+
+
+5)Requirements:
+
+Experience in uplift modeling;
+Experience in A/B testing or other types of marketing analytics;
+Experience with data science techniques including regression, logistic, cluster analysis, KNN, k-means, support vector machines, Bayesian analysis, decision trees, and light gradient boosting models;
+Working knowledge of SQL;
+Working knowledge of Python, R or Rust;
+Expertise in traditional predictive models;
+Good level of English (B2 or higher).
+
+
+6)Наши ожидания:
+
+Высшее образование в области математики, статистики, информатики, инженерии или других связанных областях;
+Опыт программирования на Python от 2-х лет;
+Знание наиболее распространенных алгоритмов машинного и глубокого обучения, понимание их теоретических основ;
+Практический опыт работы в сфере Data Science с уклоном в построение NLP моделей;
+Знание основных инструментов глубокого обучения и анализа данных, таких как PyTorch, Tensorflow, Keras, Scikit-learn и другими;
+Опыт работы c Linux, Docker, git;
+Умение анализировать данные, извлекать ценные инсайты и делать выводы;
+Умение объяснять сложные технические концепции простым языком и работать в команде, включая нетехнических специалистов;
+Умение работать с большими объёмами данных и уметь обрабатывать их с помощью соответствующих инструментов;
+
+
+7)REQUIREMENTS:
+
+You are knowledgeable about production-grade Machine learning inference and model training lifecycle.
+A minimum of 4 years of hands-on experience in production projects as a Machine Learning Engineer, Data Engineer, or Data Scientist.
+At least 5 years of overall experience in software development.
+Strong experience in Python programming language.
+Strong experience in PyTorch or Tensorflow.
+Strong experience in NLP and/or CV (not only GPT & BERT-like models).
+Strong experience with the following libraries: numpy, pandas, opencv, spacy, nltk, scikit-learn.
+Experience with generative models (GPT) and prompt engineering.
+English language (Intermediate and higher).
+This is a full-time position requiring exclusive commitment.
+GOOD TO HAVE:
+
+Experience with Azure Cloud services (or alternative)
+Experience with OpenAI platform (or alternative).
+Experience with HuggingFace.
+Experience with data processing pipelines.
+Knowledge of data analysis, statistics and data visualisation (descriptive statistics, statistical tests, plotting, dashboards, etc.).
