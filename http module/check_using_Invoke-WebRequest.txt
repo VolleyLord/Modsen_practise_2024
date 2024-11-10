@@ -1,0 +1,17 @@
+# GET Method
+Invoke-WebRequest -Uri "http://localhost:3000/items" -Method GET
+
+# GET by ID Method
+Invoke-WebRequest -Uri "http://localhost:3000/items/<id>" -Method GET
+
+# POST Method (добавление нового элемента)
+Invoke-WebRequest -Uri "http://localhost:3000/items" `
+                  -Method POST `
+                  -Headers @{ "Content-Type" = "application/json" } `
+                  -Body '{"name": "blablabla"}'
+
+# PUT Method (обновление существующего элемента)
+Invoke-WebRequest -Uri "http://localhost:3000/items/<id>" `
+                  -Method PUT `
+                  -Headers @{ "Content-Type" = "application/json" } `
+                  -Body '{"name": "blablablaabla"}'
